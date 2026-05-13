@@ -1,0 +1,2 @@
+# Multi-VLAN-Enterprise-Network-with-Firewall-OSPF-Routing
+A fully segmented enterprise network built in Cisco Packet Tracer featuring six VLANs across two access-layer switches, router-on-a-stick inter-VLAN routing, centralized DHCP, and a Cisco ASA 5506-X firewall connecting the internal LAN to external WAN segments. OSPF Area 0 provides dynamic routing across all network zones, including DMZ servers.
